@@ -9,7 +9,7 @@ All you have to do for installation is run a few commands,
  mk <your_folder_name>
  cd <your_folder_name>
  Than put movie_maker.py in that folder.
- All clips and audios also go in that folder, If there Is more clips or audios needed, copy and paste that part of the code.
+ All clips and audios also go in that folder, If there Is more clips or audios needed, copy and paste that part of the code. If the lenght of the video or audio needs to be adjusted, just change the video or audio values.
  If any issues pop up, I am letting It be known that I am no longer maintaining this code, and will not be fixing and issues that come up, but the license that this is registered under gives you permissions to change and reupload the code.
 
 
@@ -18,7 +18,7 @@ All you have to do for installation is run a few commands,
  (If not already, download and install python and pip from here https://www.python.org/downloads/)
   open cmd and run:
    pip install moviepy
-Now make a folder and put all your videos and audios in there, If more clips or audios are needed, copy and paste that part of the code
+Now make a folder and put all your videos and audios in there, If more clips or audios are needed, copy and paste that part of the code. If the lenght of the video or audio needs to be adjusted, just change the video or audio values.
 If Issues come up, I am just letting It be known that I am no longer maintaing this code, and will not be fixing and issues that come up,  the license this project is registered under gives you all the rights to change and reupload the code.
 
 
@@ -27,5 +27,5 @@ If Issues come up, I am just letting It be known that I am no longer maintaing t
  (If not already, download and install python and pip from here https://www.python.org/downloads/)
   open terminal and run:
    pip install moviepy
-Now make a folder and put all your videos and audios in there, If more clips or audios are needed, copy and paste that part of the code
+Now make a folder and put all your videos and audios in there, If more clips or audios are needed, copy and paste that part of the code. If the lenght of the video or audio needs to be adjusted, just change the video or audio values.
 If Issues come up, I am just letting It be known that I am no longer maintaing this code, and will not be fixing and issues that come up,  the license this project is registered under gives you all the rights to change and reupload the code.
